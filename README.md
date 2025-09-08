@@ -84,3 +84,8 @@ BFS Traversal Order: ['A', 'B', 'C']
 ### Result:
 
 The above program executed successfully
+
+INPUT/OUTPUT:
+
+<img width="1599" height="495" alt="image" src="https://github.com/user-attachments/assets/2fec18d3-d561-4cc6-a159-990bb45e47ca" />
+
